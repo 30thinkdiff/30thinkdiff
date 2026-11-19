@@ -25,8 +25,6 @@ Interested in **Embodied AI, Vision-Language-Action Models, Robot Learning, and 
 
 Currently exploring how to improve the reliability of robot manipulation policies through visual monitoring, action replanning, and data-driven evaluation.
 
-Open to internship opportunities in Embodied AI / Robotics Algorithms.
-
 ---
 
 ## Featured Projects
@@ -87,4 +85,3 @@ Open to internship opportunities in Embodied AI / Robotics Algorithms.
 
 - GitHub: [30thinkdiff](https://github.com/30thinkdiff)
 - Email: 3079201449@qq.com 2022112575@stu.hit.edu.cn 
-- Resume: Add a public PDF link
