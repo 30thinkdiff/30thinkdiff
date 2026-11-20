@@ -26,7 +26,7 @@ Interested in **Embodied AI, Vision-Language-Action Models, Robot Learning, and 
 Currently exploring how to improve the reliability of robot manipulation policies through visual monitoring, action replanning, and data-driven evaluation.
 
 ---
-
+<!--
 ## Featured Projects
 
 ### 1. VLA-Corrector: Visual Monitoring and Recovery
@@ -85,3 +85,4 @@ Currently exploring how to improve the reliability of robot manipulation policie
 
 - GitHub: [30thinkdiff](https://github.com/30thinkdiff)
 - Email: 3079201449@qq.com 2022112575@stu.hit.edu.cn 
+-->
